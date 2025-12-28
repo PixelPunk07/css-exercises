@@ -59,4 +59,5 @@ ul {
 
 .right-links {
   display: flex;
+  align-items: center;
 }
