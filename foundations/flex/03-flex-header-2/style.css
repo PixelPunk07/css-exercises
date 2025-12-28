@@ -52,4 +52,5 @@ ul {
 
 .left-links {
   display: flex;
+  align-items: center;
 }
