@@ -17,7 +17,9 @@ img {
   display: flex;
   justify-content: center;
   margin-top: 32px;
+  gap: 52px;
 }
+
 
 /* do not edit this footer */
 .footer {
