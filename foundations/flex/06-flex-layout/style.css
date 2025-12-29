@@ -44,3 +44,7 @@ li a {
   color: rgb(107, 107, 107);
   font-size: 18px;
 }
+
+.content {
+  display: flex;
+}
