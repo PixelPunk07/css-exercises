@@ -59,8 +59,5 @@ li a {
 .footer {
   display: flex;
   justify-content: space-between;
-  position: absolute;
-  bottom: 0;
-  width: 100%;
   background-color: #eee;
 }
