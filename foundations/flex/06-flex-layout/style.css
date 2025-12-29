@@ -55,3 +55,7 @@ li a {
 .buttons button {
   padding: 10px;
 }
+
+.footer {
+  display: flex;
+}
