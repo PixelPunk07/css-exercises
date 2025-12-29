@@ -61,6 +61,14 @@ li a {
   display: flex;
   justify-content: space-between;
   background-color: #eee;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer .left-links,
+.footer .right-links {
+  padding: 15px;
 }
 
 
