@@ -66,4 +66,9 @@ li a {
   width: 100%;
 }
 
+.footer .left-links,
+.footer .right-links {
+  padding: 15px;
+}
+
 
