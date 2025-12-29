@@ -60,4 +60,5 @@ li a {
   display: flex;
   padding: 48px;
   gap: 20px;
+  flex-wrap: wrap;
 }
