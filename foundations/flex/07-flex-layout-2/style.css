@@ -59,4 +59,5 @@ li a {
 .card-container {
   display: flex;
   padding: 48px;
+  gap: 20px;
 }
